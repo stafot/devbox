@@ -1,1 +1,2 @@
-docker build -t stafot/devbox .
+container: 
+	docker build -t stafot/devbox .
